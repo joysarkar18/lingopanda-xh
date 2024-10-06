@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "541166119884",
+    "project_id": "nowcare4u-b1800",
+    "storage_bucket": "nowcare4u-b1800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541166119884:android:edda6a39f9f233e5688b69",
+        "android_client_info": {
+          "package_name": "com.joy.lingopanda_xh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541166119884-vvs96o2pg92btkkn295pim79tclun5mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGrQHK_o5G4hU33okhmx_E47kNZrV638o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541166119884-vvs96o2pg92btkkn295pim79tclun5mf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "541166119884-rogr440m2b9pngdu6ifr477hnbfoipg6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.assignmentNowcare4u"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
